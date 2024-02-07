@@ -23,7 +23,7 @@ The GUI, or graphical user interface, is a type of user interface that can be us
 A collection of tools called Tkinter, which allows Python to be used to render graphical user interfaces. Tkinter is the Python port for Tcl-Tk GUI toolkit developed by Fredrik Lundh. It enables the GUI-based execution of Python scripts. Initially, import the TKinter module. After importing, use the Tk() function to set up the application object. This will create a basic window also known as root, a frame will display title bar, control box with the minimize and close buttons, and some space to hold other widgets. All Tkinter widget classes are inherited from the Widget class. Using these classes you can create perfect GUI. 
 
 ### Project2 Description. 
-- The project, titled TIMEFRAME GUI: PYTHON-BASED DIGITAL CLOCK AND DATE DISPLAY, is implemented in Python.
+- The project, titled **TIMEFRAME GUI: PYTHON-BASED DIGITAL CLOCK AND DATE DISPLAY**, is implemented in Python.
 - It leverages the tkinter and time Python libraries for GUI creation and time/date retrieval, respectively.
 - The tkinter library serves the purpose of crafting the graphical user interface, while the time module facilitates the retrieval of current time and date information.
 - The project centers around a "Digital_Clock" class, designed to manage various GUI functions. Each function within the class is dedicated to constructing specific graphical elements (widgets), initializing the GUI window, setting up clock and date display frames, and continuously updating time and date information.
